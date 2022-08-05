@@ -32,9 +32,11 @@ Here are some ideas to get you started:
 
 안녕하세요!
 
-:school: 대학교에서 IT융합을 전공 <br>
-:notebook_with_decorative_cover: 정보처리기사 자격증 <br>
-🌱 저는 현재 learning ...
+:school: 대학교에서 **IT융합**을 전공했어요. <br>
+:notebook_with_decorative_cover: **정보처리기사 자격증**을 가지고 있어요. <br>
+🌱 저는 현재 교육기관에서 **스마트웹&콘텐츠개발** 수업을 듣고 있어요.
+
+
 
 </div>
 
