@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 -->
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=jiyeonkim!&fontAlign=80fontAlignY=20&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=jiyeonkim!&fontAlign=80&fontAlignY=40&color=gradient)
 
 
 
